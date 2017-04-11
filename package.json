@@ -1,5 +1,5 @@
 {
-  "name": "hello nodejs",
+  "name": "helloNodejs",
   "version": "1.0.0",
   "description": "learn and test nodejs",
   "main": "index.js",
@@ -11,21 +11,12 @@
     "url": "git@git.huluwa.cc:liumei/navigation-ui.git"
   },
   "keywords": [
-    "ui",
-    "theme",
-    "navigation",
-    "fangxin"
+    "nodejs",
+    "hello"
   ],
   "author": "liumapp.com@gmail.com",
   "license": "ISC",
   "devDependencies": {
-    "del": "^2.2.2",
-    "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^3.1.1",
-    "gulp-clean-css": "^2.0.13",
-    "gulp-concat": "^2.6.0",
-    "gulp-less": "^3.1.0",
-    "gulp-tools": "0.0.3",
-    "gulp-util": "^3.0.7"
+    
   }
 }

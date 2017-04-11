@@ -1,4 +1,4 @@
-const Buffer = require('Buffer');
+const Buffer = new Buffer();
 
 // 创建一个长度为 10、且用 0 填充的 Buffer。
 const buf1 = Buffer.alloc(10);
