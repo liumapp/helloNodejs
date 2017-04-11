@@ -1,5 +1,3 @@
-const Buffer = new Buffer();
-
 // 创建一个长度为 10、且用 0 填充的 Buffer。
 const buf1 = Buffer.alloc(10);
 
@@ -20,3 +18,4 @@ const buf5 = Buffer.from('test');
 
 // 创建一个包含 UTF-8 字节数组 [0x74, 0xc3, 0xa9, 0x73, 0x74] 的 Buffer。
 const buf6 = Buffer.from('tést', 'utf8');
+

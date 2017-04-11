@@ -1,7 +1,7 @@
 {
   "name": "helloNodejs",
   "version": "1.0.0",
-  "description": "learn and test nodejs",
+  "description": "测试nodejs各个API并予以解释，比较适合研究学习nodejs或者作为工具文档使用。",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
